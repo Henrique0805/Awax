@@ -133,4 +133,5 @@ header {
 }
 .default {
     background-color: red;
+    width: 100vw;
 }
